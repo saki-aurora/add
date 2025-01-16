@@ -12,10 +12,11 @@
     "express": "^4.21.2"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/saki-aurora"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/saki-aurora/add.git"
   }
+
 }
