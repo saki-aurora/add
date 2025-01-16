@@ -1,5 +1,5 @@
 {
-  "name": "add-2-test-github",
+  "name": "@saki-aurora/add",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
